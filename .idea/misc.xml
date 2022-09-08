@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidKotlinAndrewSumin/CryptoApp/app/src/main/res/layout-land/activity_coin_price_list.xml" value="0.25729166666666664" />
         <entry key="..\:/AndroidKotlinAndrewSumin/CryptoApp/app/src/main/res/layout/activity_coin_detail.xml" value="0.24739583333333334" />
         <entry key="..\:/AndroidKotlinAndrewSumin/CryptoApp/app/src/main/res/layout/activity_coin_prce_list.xml" value="0.23425925925925925" />
+        <entry key="..\:/AndroidKotlinAndrewSumin/CryptoApp/app/src/main/res/layout/activity_coin_price_list.xml" value="0.24739583333333334" />
         <entry key="..\:/AndroidKotlinAndrewSumin/CryptoApp/app/src/main/res/layout/fragment_coin_detail.xml" value="0.24739583333333334" />
         <entry key="..\:/AndroidKotlinAndrewSumin/CryptoApp/app/src/main/res/layout/item_coin_info.xml" value="0.24739583333333334" />
       </map>
